@@ -25,6 +25,6 @@ if not isWhitelisted then
     return
 end
 
-local keyA = "ARVELYNXSAI"
+local keyA = "SAILYNXSHI"
 
 return keyA
